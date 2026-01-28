@@ -1,0 +1,24 @@
+source,target,distance
+Champlain,Albany,178
+Albany,Highgate Springs,130
+Derby Line,St. Johnsbury,50
+St. Johnsbury,White River Jct.,60
+White River Jct.,Concord,105
+Concord,Reading,56
+Reading,Weston,19
+Weston,Canton,21
+Canton,Boston,20
+Reading,Bangor,227
+Bangor,Houlton,120
+Albany,Springfield,87
+Springfield,White River Jct.,64
+Springfield,Sturbridge,36
+Hartford,Springfield,27
+Hartford,Sturbridge,43
+New Haven,Hartford,39
+New York,New Haven,81
+Newburgh,New York,69
+Albany,Newburgh,90
+New Haven,Providence,102
+Providence,Canton,32
+Sturbridge,Reading,51
